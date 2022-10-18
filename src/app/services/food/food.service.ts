@@ -7,7 +7,7 @@ import { IFood } from './food.interface';
   providedIn: 'root',
 })
 export class FoodService {
-  API_URL = 'http://localhost:3000/food';
+  API_URL = 'https://red-group-stream-burger-server.herokuapp.com/food';
   // foods: IFood[] = [];
   constructor(private http: HttpClient) {}
 
