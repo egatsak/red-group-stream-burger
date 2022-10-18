@@ -1,10 +1,14 @@
 # RedGroupStreamBurger
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.2.5.
+Using SCSS, Tailwind, json-server.
+
+TODO: favs, sale, profile pages.
 
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
+Run `npm i json-server` to install json-server fake RestAPI, `then run json-server --watch db.json`.
 
 ## Code scaffolding
 
