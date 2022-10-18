@@ -1,0 +1,20 @@
+.item {
+  @apply bg-white rounded mb-2 p-4 text-center block;
+  > .img-wrapper {
+    @apply flex items-center;
+    height: 190px;
+
+    > img {
+      @apply mb-2 mx-auto;
+      max-height: 190px;
+    }
+  }
+
+  .heading {
+    @apply font-medium mb-2 block text-lg;
+  }
+
+  .price {
+    @apply block text-orange-500 font-semibold;
+  }
+}

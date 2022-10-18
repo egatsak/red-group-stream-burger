@@ -1,0 +1,74 @@
+{
+  "food": [
+    {
+      "id": 1,
+      "title": "Beef Burger",
+      "type": "burger",
+      "price": 6.4,
+      "image": "https://pngimg.com/uploads/burger_sandwich/burger_sandwich_PNG96786.png"
+    },
+    {
+      "id": 2,
+      "title": "Chicken Burger",
+      "type": "burger",
+      "price": 5.4,
+      "image": "https://www.pngkey.com/png/full/38-384242_veggie-burger-clipart-chicken-sandwich-chicken-burger-png.png"
+    },
+    {
+      "id": 3,
+      "title": "Big Mac",
+      "type": "burger",
+      "price": 8.9,
+      "image": "https://www.pngkey.com/png/full/168-1682261_menu-clip-freeuse-library-mcdonalds-burger-big-mac.png"
+    },
+    {
+      "id": 4,
+      "title": "Cheeseburger",
+      "type": "burger",
+      "price": 4.4,
+      "image": "https://www.pngkey.com/png/full/436-4367633_cheeseburger-mcdonalds-cheese-burger.png"
+    },
+    {
+      "id": 5,
+      "title": "Taco",
+      "type": "taco",
+      "price": 9.4,
+      "image": "https://www.pngmart.com/files/22/Taco-Bell-PNG.png"
+    },
+    {
+      "id": 6,
+      "title": "Chicken Nuggets",
+      "type": "chicken",
+      "price": 6.9,
+      "image": "https://www.citypng.com/public/uploads/small/11653329235ne77vw13spafnlhowriskdmgxggwddl7kqipk4uyzh7zjvsn4gqeedkyif1cmp6jvlxmax8nfgrpe4diquhgqlwhutw52fvpbpp2.png"
+    },
+    {
+      "id": 7,
+      "title": "Coca-Cola",
+      "type": "drink",
+      "price": 2,
+      "image": "https://www.lifepng.com/wp-content/uploads/2020/12/Classic-Coke-Bottle-Coca-Cola-png-hd.png"
+    },
+    {
+      "id": 8,
+      "title": "Fanta",
+      "type": "drink",
+      "price": 2,
+      "image": "https://static.wixstatic.com/media/f1971d_fb164fd8b49c46d284ebe4c0908aff43~mv2.png/v1/fit/w_500,h_500,q_90/file.png"
+    },
+    {
+      "id": 9,
+      "title": "Sprite",
+      "type": "drink",
+      "price": 2,
+      "image": "https://img.cppng.com/download/2020-06/7-2-sprite-png-clipart.png"
+    },
+    {
+      "id": 10,
+      "title": "Beer",
+      "type": "drink",
+      "price": 2.6,
+      "image": "https://officialpsds.com/imageview/rq/x4/rqx4v1_large.png?1648163799"
+    }
+  ]
+}
