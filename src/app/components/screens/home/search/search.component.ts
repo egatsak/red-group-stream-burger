@@ -19,7 +19,6 @@ export class SearchComponent implements OnInit {
 
   handleSearch(e: KeyboardEvent) {
     if (e.key === 'Enter') {
-      console.log(this.searchTerm);
       this.findFoods.emit({ searchTerm: this.searchTerm });
     }
   }
